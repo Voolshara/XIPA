@@ -1,0 +1,18 @@
+### IDE folder
+.idea/
+
+
+###Data Set
+test/
+train/
+Interface_entry/
+Interface_exit/
+
+### Some Information
+train_log.txt
+
+### Models
+Model_CPU.h5
+Model_GPU.h5
+
+## Images
